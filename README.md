@@ -6,6 +6,6 @@
 * [Leetcode](https://leetcode.com)
 
 > ## Concept
-1. TensorFlow
+* TensorFlow
 * Neural Network
 * Gradient Desent
