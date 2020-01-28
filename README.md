@@ -1,7 +1,7 @@
 # Learning list
 
 ## Daily list
-### 1.New TOEIC
+⋅⋅⋅* New TOEIC
 ### 2.ML Courses
 ### 3.Leetcode
 
