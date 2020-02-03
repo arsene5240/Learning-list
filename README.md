@@ -14,3 +14,5 @@
 * TensorFlow
 * Neural Network
 * Gradient Desent
+* Hadoop/Hive/Spark 
+
