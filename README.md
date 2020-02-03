@@ -11,8 +11,9 @@
 
 
 > ## Concept
-* TensorFlow
+* TensorFlow/Pytorch
 * Neural Network
 * Gradient Desent
 * Hadoop/Hive/Spark 
+
 
